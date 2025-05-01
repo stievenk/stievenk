@@ -6,4 +6,6 @@ My Name is Stieven Kalengkian from Manado, Indonesia.
 - 💓 Javascript/NodeJS
 - 💓 Python
 
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stievenk)]
 
