@@ -2,10 +2,9 @@
 
 My Name is Stieven Kalengkian from Manado, Indonesia.
 - 💓 PHP
-- 💓 MySQL
+- 💓 MySQL/MariaDB
 - 💓 Javascript/NodeJS
 - 💓 Python
+- 💓 Linux (Ubuntu & Slackware)
 
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stievenk)]
-
+(https://csphotographymanado.com)
